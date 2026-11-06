@@ -34,17 +34,6 @@ TinDog/
 └── tnw.png
 ```
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/USERNAME/REPOSITORY-NAME.git
-   ```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
 
 ## 🎯 Purpose
 
